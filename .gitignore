@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+
+# VSCode
+.vscode/
+
+# Drizzle/ORM migrations metadata
+src/db/migrations/meta/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
